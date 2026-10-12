@@ -54,6 +54,7 @@ b.  KCL:
 CACULATION:
 
 a.   KVL:
+
 <img width="977" height="1176" alt="WhatsApp Image 2026-10-11 at 8 53 08 PM (1)" src="https://github.com/user-attachments/assets/ed0d24b2-00ef-46a3-ba8d-dc0a8dfedaef" />
 
 
@@ -69,6 +70,7 @@ b.  KCL:
 TABULATION:
 
 a.   KVL:
+
  <img width="1069" height="730" alt="WhatsApp Image 2026-10-12 at 12 00 32 PM" src="https://github.com/user-attachments/assets/ba49695d-c129-40b5-87e8-bf9aa6af743e" />
  
 b.  KCL:
