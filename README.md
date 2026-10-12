@@ -37,26 +37,37 @@ b.  KCL:
 4.   Switch on the RPS.
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
-7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
-
+7.   Take readings for different values of input voltage and tabulate them.
+ 
 CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
 
+<img width="897" height="496" alt="WhatsApp Image 2026-10-11 at 8 44 39 PM" src="https://github.com/user-attachments/assets/a2b8ea81-cdef-4561-8b9d-f32ffcf11c3a" />
+<img width="792" height="531" alt="WhatsApp Image 2026-10-11 at 8 44 39 PM (1)" src="https://github.com/user-attachments/assets/d90394c4-19c6-4113-8800-474a3efcca84" />
 
 b.  KCL:
+
+<img width="1104" height="755" alt="WhatsApp Image 2026-10-11 at 8 44 40 PM" src="https://github.com/user-attachments/assets/c4f8b8e8-fb4f-484b-96aa-7b660b233fa9" />
+<img width="1217" height="770" alt="WhatsApp Image 2026-10-11 at 8 44 40 PM (1)" src="https://github.com/user-attachments/assets/54302685-4e46-4883-8701-d3a1ba9340c4" />
+
+
  
 
 Calculation:
 
 a.   KVL:
+<img width="977" height="1176" alt="WhatsApp Image 2026-10-11 at 8 53 08 PM (1)" src="https://github.com/user-attachments/assets/ed0d24b2-00ef-46a3-ba8d-dc0a8dfedaef" />
+
  
 
 
 b.  KCL:
+
+<img width="707" height="1280" alt="WhatsApp Image 2026-10-11 at 8 53 08 PM (2)" src="https://github.com/user-attachments/assets/5abffeab-b315-4cc1-8913-793e73855939" />
+
+<img width="899" height="1280" alt="WhatsApp Image 2026-10-11 at 8 53 08 PM" src="https://github.com/user-attachments/assets/4d0e33c5-1d31-4ed9-bc93-48e799a5d61f" />
 
 
 
@@ -64,10 +75,13 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ <img width="1069" height="730" alt="WhatsApp Image 2026-10-12 at 12 00 32 PM" src="https://github.com/user-attachments/assets/ba49695d-c129-40b5-87e8-bf9aa6af743e" />
+
 
 
 b.  KCL:
+<img width="1069" height="730" alt="WhatsApp Image 2026-10-12 at 12 00 32 PM" src="https://github.com/user-attachments/assets/afe5b040-528f-47a3-bef1-5da29a817e55" />
+
 
 
 
