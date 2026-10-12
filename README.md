@@ -75,12 +75,15 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+
  <img width="1069" height="730" alt="WhatsApp Image 2026-10-12 at 12 00 32 PM" src="https://github.com/user-attachments/assets/ba49695d-c129-40b5-87e8-bf9aa6af743e" />
 
 
 
 b.  KCL:
-<img width="1069" height="730" alt="WhatsApp Image 2026-10-12 at 12 00 32 PM" src="https://github.com/user-attachments/assets/afe5b040-528f-47a3-bef1-5da29a817e55" />
+
+<img width="826" height="427" alt="WhatsApp Image 2026-10-12 at 12 00 59 PM" src="https://github.com/user-attachments/assets/fd623c69-aa40-4aef-9d30-e7d29a70f73e" />
+
 
 
 
